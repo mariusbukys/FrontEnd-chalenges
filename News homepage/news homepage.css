@@ -177,6 +177,7 @@ input  {
         grid-column: 1;
         grid-row: 1;
         position: relative;
+        width: 480px;
     }
     .kaladeles {
         grid-column: 1;
